@@ -22,3 +22,11 @@ button {
 button:hover {
     background-color: rgb(199, 207, 214);
 }
+
+#numberOfChars {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.05em;
+    font-weight: bold;
+    border: 2px black solid;
+    text-align: center;
+}
