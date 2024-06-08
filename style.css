@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: auto;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 2px black solid;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+button:hover {
+    background-color: rgb(199, 207, 214);
+}
